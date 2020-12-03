@@ -50,3 +50,8 @@ input[type="submit"] {
   padding: 0.4em 1em;
   font-size: 1.2em;
 }
+@media only screen and (max-width: 600px) {
+  article {
+    width: 95%;
+  }
+}
